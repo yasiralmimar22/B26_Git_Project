@@ -1,7 +1,8 @@
 package day0;
 
 public class First {
-    // Todo:work on this tomoro.
-    // add some
-    //updated
+    public static void main(String[] args) {
+        System.out.println("java");
+        System.out.println("work");
+    }
 }
